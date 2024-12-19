@@ -47,4 +47,5 @@ img{
     margin-top: 20px;
     border: 5px solid #555;
     border-radius: 50%;
+    box-shadow: 5px 5px 35px rgb(51, 191, 100); 
 }
